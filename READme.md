@@ -17,6 +17,8 @@ Please send me a pull request with your project!
 
 [Storage](#storage)
 
+[Side chain](#sidechain)
+
 [In Progress..](#in-progress)
 
 
@@ -164,6 +166,23 @@ Private sync & file sharing for your files.
 
 * [**Librevault**](https://librevault.com/)
 Open source zero-knowledge P2P file sync.
+
+### Side Chain
+
+* [**Matic Network**](https://matic.network/)
+Provides layer 2 solution with ccalable and instant blockchain transactions.
+
+* [**Loom Network**](https://loomx.io/)
+Layer 2 solution to help Ethereum scale.
+
+* [**OmiseGo**](https://omisego.network/)
+Instant peer-to-peer transactions.
+
+* [**POA Network**](https://www.poa.network/)
+POA Network is an open Ethereum sidechain with Proof of Authority consensus.
+
+* [**Plasma**](https://plasma.group/)
+Dedicated to the creation of an open plasma implementation for the greater Ethereum community.
 
 
 ### In Progress..
