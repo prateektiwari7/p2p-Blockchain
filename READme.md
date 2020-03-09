@@ -199,4 +199,4 @@ Fully decentralized and distributed social platform.
 Global mesh communication network.
 
 
-### Will love to add your PRs..
+### Will love to add your Pull Request..
